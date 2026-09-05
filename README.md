@@ -1,5 +1,7 @@
 <h1 align="center">¡Hola! Soy Ricardo Cárdenas Panduro 👋</h1>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rick2425/Rick2425/main/Gemini_Generated_Image_9dwdnv9dwdnv9dwd-removebg-preview.png" alt="Avatar Ricardo Cárdenas" width="200"/>
+</p>
 <h3 align="center">Estudiante de Ingeniería Estadística e Informática | Data Science & Engineering</h3>
 
 <p align="center">
