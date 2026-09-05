@@ -18,25 +18,25 @@
     <p>
       <img src="https://skillicons.dev/icons?i=py,r,pandas,numpy" alt="Data Science Stack"/>
     </p>
-    *   **Enfoque:** Análisis Exploratorio de Datos (EDA), Modelado Estadístico Predictivo (Regresión Lineal, ANOVA), Inferencia y Machine Learning Foundations.
+*   **Enfoque:** Análisis Exploratorio de Datos (EDA), Modelado Estadístico Predictivo (Regresión Lineal, ANOVA), Inferencia y Machine Learning Foundations.
 
 *   **⚙️ Data Engineering & Pipelines**
     <p>
       <img src="https://skillicons.dev/icons?i=spark,gcp,aws" alt="Data Engineering Stack"/>
     </p>
-    *   **Enfoque:** Extracción, transformación y carga (ETL), procesamiento distribuido, Web Scraping y gestión de grandes volúmenes de datos.
+*   **Enfoque:** Extracción, transformación y carga (ETL), procesamiento distribuido, Web Scraping y gestión de grandes volúmenes de datos.
 
 *   **🗄️ Database Management & Version Control**
     <p>
       <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,git,github,linux,ubuntu,arch" alt="Database & OS Stack"/>
     </p>
-    *   **Enfoque:** Administración de bases de datos relacionales, control de versiones avanzado y entornos operativos basados en Linux (Pop!_OS, Ubuntu, Arch Linux).
+*   **Enfoque:** Administración de bases de datos relacionales, control de versiones avanzado y entornos operativos basados en Linux (Pop!_OS, Ubuntu, Arch Linux).
 
 *   **⚡ Automatización & Procesos**
     <p>
       <img src="https://skillicons.dev/icons?i=docker" alt="Automation Stack"/>
     </p>
-    *   **Enfoque:** Optimización de flujos de trabajo (n8n, Power Automate), integración de IA Generativa / Prompt Engineering y modelado BPMN (Bizagi).
+*   **Enfoque:** Optimización de flujos de trabajo (n8n, Power Automate), integración de IA Generativa / Prompt Engineering y modelado BPMN (Bizagi).
 
 ---
 
@@ -66,11 +66,3 @@
 </tr>
 </table>
 <!--- stats (end) -->
-
-<!--- trophy (start) -->
-<div align=left>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Rick2425&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-<!--- trophy (end) -->
