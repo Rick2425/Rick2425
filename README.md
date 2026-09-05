@@ -40,7 +40,9 @@
 
 *   **⚙️ Data Engineering & Pipelines**
     <p>
-      <img src="https://skillicons.dev/icons?i=spark,gcp,aws" alt="Data Engineering Stack"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="48" height="48" style="background-color: #1b2028; padding: 9px; border-radius: 10px; box-sizing: border-box; margin-right: 4px;" alt="Spark"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="48" height="48" style="background-color: #1b2028; padding: 9px; border-radius: 10px; box-sizing: border-box; margin-right: 4px;" alt="GCP"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="48" height="48" style="background-color: #1b2028; padding: 9px; border-radius: 10px; box-sizing: border-box;" alt="AWS"/>
     </p>
 *   **Enfoque:** Extracción, transformación y carga (ETL), procesamiento distribuido, Web Scraping y gestión de grandes volúmenes de datos.
 
